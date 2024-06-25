@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 def gen_labels():
-    labels = {0 : "dilay"}
+    labels = {0 : "Bakkat Makki", 1 : "Chi Jieurigi", 2 : "Dwi Chagi", 3 : "Eolgeol Makki", 4 : "Up Chagi", 5 : "Yeop Jireugi"}
     return labels
 
 def preprocess(image):
